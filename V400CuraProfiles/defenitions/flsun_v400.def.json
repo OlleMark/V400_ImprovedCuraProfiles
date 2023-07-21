@@ -19,8 +19,7 @@
             -43.5
         ],
         "preferred_material": "generic_pla_175",
-        "preferred_quality_type": "flsun_v400_fast",
-        "preferred_variant_name": "flsun_v400_0.4",
+        "preferred_variant_name": "flsun_v400_fast_pla",
         "variants_name": "Nozzle Size"
     },
     "overrides":
